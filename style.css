@@ -1,0 +1,21 @@
+* {
+    background-color: whitesmoke;
+    color: black;
+}
+.title {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.link {
+    color: green;
+}
+
+.recipe {
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.moe {
+    color: blueviolet;
+}
